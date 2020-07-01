@@ -10,7 +10,8 @@ import gc
 import PyPDF4 as PyPDF2
 from django.shortcuts import render
 from start.forms import UploadFileForm
-from start.models import UserResumes1
+from start.models import UserResumes
+
 
 try:
     from xml.etree.cElementTree import XML
@@ -162,9 +163,9 @@ def index(request):
             if email == None:
                     email = ''
 
-            user=UserResumes1(pinfo=pinfo,cgpa=cgpa,mobile=mobno,email=email,objective=obj,education=edu,skill=skill,achievements=achieve,projects=projects,hobbies=hobb)
+            user=UserResumes(pinfo=pinfo,cgpa=cgpa,mobile=mobno,email=email,objective=obj,education=edu,skill=skill,achievements=achieve,projects=projects,hobbies=hobb)
             user.save()
-            for i in UserResumes1.objects.all():
+            for i in UserResumes.objects.all():
                 print(i.mobile)
             return render(request, 'success.html', {'mobno':mobno,'email':email,'pinfo':pinfo,'obj':obj,'edu':edu,'skills':skill,'achieve':achieve,'projects':projects,'hobbies':hobb})
     else:

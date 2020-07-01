@@ -12,7 +12,3 @@ class UserResumes(models.Model):
     achievements = models.TextField(max_length=5000,default="")
     projects = models.TextField(max_length=1000,default="")
     hobbies = models.TextField(max_length=5000,default="")
-
-
-
-
