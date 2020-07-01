@@ -5,7 +5,3 @@ psycopg2-binary==2.8.5
 pytz==2019.3
 whitenoise==5.1.0
 PyMySQL==0.9.3
-pyodbc===4.0.0-unsupported
-pyOpenSSL==19.1.0
-pyparsing==2.4.6
-PyPDF2==1.26.0
