@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2fbd5a4-9989-4281-af9f-47a22e8cbd3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1drmrtUzGLj0GNuBjBLObzPZtdk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="resumeparser-master 2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/resumeparser" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resumeparser/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2fbd5a4-9989-4281-af9f-47a22e8cbd3e" name="Default Changelist" comment="" />
+      <created>1593191787261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593191787261</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593311514148">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state x="304" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.969@0.23.1680.969" timestamp="1593311514148" />
+    <state x="565" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593191869677">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="565" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.961@0.23.1680.961" timestamp="1593191869677" />
+    <state width="829" height="465" key="GridCell.Tab.0.bottom" timestamp="1593423593983">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="829" height="320" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1593311255492" />
+    <state width="829" height="320" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1593281530183" />
+    <state width="829" height="465" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1593331846434" />
+    <state width="829" height="465" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1593330793910" />
+    <state width="829" height="465" key="GridCell.Tab.0.bottom/0.23.1680.969@0.23.1680.969" timestamp="1593312116038" />
+    <state width="829" height="465" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1593423593983" />
+    <state width="829" height="320" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1593419346787" />
+    <state width="829" height="465" key="GridCell.Tab.0.center" timestamp="1593423593981">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="829" height="320" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1593311255491" />
+    <state width="829" height="320" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1593281530183" />
+    <state width="829" height="465" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1593331846434" />
+    <state width="829" height="465" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1593330793909" />
+    <state width="829" height="465" key="GridCell.Tab.0.center/0.23.1680.969@0.23.1680.969" timestamp="1593312116037" />
+    <state width="829" height="465" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1593423593981" />
+    <state width="829" height="320" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1593419346786" />
+    <state width="829" height="465" key="GridCell.Tab.0.left" timestamp="1593423593981">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="829" height="320" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1593311255490" />
+    <state width="829" height="320" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1593281530182" />
+    <state width="829" height="465" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1593331846433" />
+    <state width="829" height="465" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1593330793908" />
+    <state width="829" height="465" key="GridCell.Tab.0.left/0.23.1680.969@0.23.1680.969" timestamp="1593312116036" />
+    <state width="829" height="465" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1593423593981" />
+    <state width="829" height="320" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1593419346785" />
+    <state width="829" height="465" key="GridCell.Tab.0.right" timestamp="1593423593982">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="829" height="320" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1593311255491" />
+    <state width="829" height="320" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1593281530183" />
+    <state width="829" height="465" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1593331846434" />
+    <state width="829" height="465" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1593330793910" />
+    <state width="829" height="465" key="GridCell.Tab.0.right/0.23.1680.969@0.23.1680.969" timestamp="1593312116037" />
+    <state width="829" height="465" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1593423593982" />
+    <state width="829" height="320" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1593419346786" />
+    <state width="829" height="320" key="GridCell.Tab.1.bottom" timestamp="1593419346788">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="829" height="320" key="GridCell.Tab.1.bottom/0.23.1680.963@0.23.1680.963" timestamp="1593311255493" />
+    <state width="829" height="320" key="GridCell.Tab.1.bottom/0.23.1680.965@0.23.1680.965" timestamp="1593281530185" />
+    <state width="829" height="320" key="GridCell.Tab.1.bottom/0.23.1680.973@0.23.1680.973" timestamp="1593419346788" />
+    <state width="829" height="320" key="GridCell.Tab.1.center" timestamp="1593419346788">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="829" height="320" key="GridCell.Tab.1.center/0.23.1680.963@0.23.1680.963" timestamp="1593311255492" />
+    <state width="829" height="320" key="GridCell.Tab.1.center/0.23.1680.965@0.23.1680.965" timestamp="1593281530184" />
+    <state width="829" height="320" key="GridCell.Tab.1.center/0.23.1680.973@0.23.1680.973" timestamp="1593419346788" />
+    <state width="829" height="320" key="GridCell.Tab.1.left" timestamp="1593419346787">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="829" height="320" key="GridCell.Tab.1.left/0.23.1680.963@0.23.1680.963" timestamp="1593311255492" />
+    <state width="829" height="320" key="GridCell.Tab.1.left/0.23.1680.965@0.23.1680.965" timestamp="1593281530184" />
+    <state width="829" height="320" key="GridCell.Tab.1.left/0.23.1680.973@0.23.1680.973" timestamp="1593419346787" />
+    <state width="829" height="320" key="GridCell.Tab.1.right" timestamp="1593419346788">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="829" height="320" key="GridCell.Tab.1.right/0.23.1680.963@0.23.1680.963" timestamp="1593311255493" />
+    <state width="829" height="320" key="GridCell.Tab.1.right/0.23.1680.965@0.23.1680.965" timestamp="1593281530185" />
+    <state width="829" height="320" key="GridCell.Tab.1.right/0.23.1680.973@0.23.1680.973" timestamp="1593419346788" />
+    <state x="496" y="185" key="SettingsEditor" timestamp="1593265261015">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="496" y="185" key="SettingsEditor/0.23.1680.963@0.23.1680.963" timestamp="1593265261015" />
+    <state x="311" y="113" key="SettingsEditor/0.23.1680.965@0.23.1680.965" timestamp="1593237111141" />
+    <state x="496" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1593220202388">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="496" y="338" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1593220202388" />
+    <state x="341" y="130" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593281526834">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="341" y="130" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1680.965@0.23.1680.965" timestamp="1593281526834" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1593265008421">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.963@0.23.1680.963" timestamp="1593265008421" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../resumeparser/resumeparser/start/views.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../resumeparser/resumeparser/start/views.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../resumeparser/resumeparser/start/views.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

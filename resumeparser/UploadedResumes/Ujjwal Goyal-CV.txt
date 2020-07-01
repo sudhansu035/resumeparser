@@ -1,0 +1,729 @@
+ 
+5
+-
+M.I.G
+,
+Friends Colony,
+ 
+New Shahganj,
+ 
+ 
+Agra, Uttar Pradesh.
+ 
+ 
+Ujjwal Goyal
+ 
+ 
+     
+uj00007
+@gmail.com
+ 
+ 
++ 91
+-
+9650377543
+ 
+ 
+ 
+CA
+REER OBJECTIVE
+ 
+ 
+ 
+To be an innovator and make successful contribution in the field of technology by delivering the best in class 
+technical skills and fostering innovation practices.
+ 
+ 
+ 
+EDUCATIONAL
+ 
+QUALIFICATION
+ 
+ 
+ 
+ 
+ 
+Degree
+ 
+Discipline
+ 
+Institute
+ 
+Year
+ 
+CGPA / Percentage
+ 
+ 
+Bachelors of
+ 
+Computer Science
+ 
+Jaypee Institute of Information
+ 
+2018
+ 
+7.5/10
+ 
+ 
+Technology (B.Tech)
+ 
+    
+ 
+Technology, Sector 62, Noida.
+ 
+ 
+ 
+ 
+Senior Secondary
+ 
+CBSE
+ 
+Childrens
+ 
+Senior Secondary School, Kota.
+ 
+2014
+ 
+90.2
+0 %
+ 
+ 
+High School
+ 
+I.C.S.E
+ 
+St. Georges College, Agra
+ 
+2011
+ 
+90
+.40 %
+ 
+ 
+ 
+ 
+       
+INDUSTRIAL EXPERIENCE
+ 
+ 
+ 
+Mc Graw Hill Education
+,
+ 
+Noida, 
+ 
+India
+ 
+         
+
+]
+ 
+ 
+ 
+ 
+As a Beta Tester 
+ 
+ 
+In their new e
+-
+book of C++ with 
+adaptive reading and student helping
+ 
+programs like quizzes involves with every    
+chapter and main points summarize and revision tests, so that the student could grab the complete aspect of the 
+course. 
+ 
+Received a Letter of
+ 
+Appreciation from Product Development Specialist of Mc Graw Hill Edu
+cation,
+ 
+after 
+success
+ful completion of the Beta Testing
+.
+ 
+ 
+ENTREPRENEURIAL
+ 
+INITIATIVE
+ 
+ 
+ 
+ 
+  
+ 
+Currently working on own startup (PLAGRAM)
+ 
+of text based systems which include user friendly 
+           
+     
+checking 
+ 
+of documents plagiarism and various other modules basically forming a complete package with 
+      
+modules like essay or an article summarizer,
+ 
+grammatical checking of documents,
+ 
+etc
+.
+ 
+ 
+Current 
+
+ 
+www.plagram.pythonanywhere.com
+ 
+ 
+ 
+ 
+  
+TECHNICAL
+ 
+&
+ 
+INDUSTRY
+ 
+SKILLS
+ 
+ 
+ 
+ 
+System Programming: 
+C/C++, Python, Java
+ 
+Areas of Interest
+: 
+Website/ WebApp  development, Android 
+Development
+ 
+,
+ 
+Robotics
+ 
+ 
+ 
+Software Packages: 
+MATLA
+B, Arduino IDE, Adobe Photoshop
+. 
+ 
+Web Framework
+ 
+and languages
+: 
+Python/
+Django
+, 
+PHP, 
+jQ
+uery, Bootstrap
+, HTML5, CSS3 , Javascript
+ 
+Database: 
+Mysql,MongoDB
+ 
+Version Control System:
+  
+Git
+ 
+ 
+Hardware Skills: 
+Arduino De
+velopment Board, RF and Bluetooth
+.
+ 
+ 
+ 
+Web Development Tools: 
+Phpmyadmin, Wamp/Xampp Server
+s, FileZilla, WordPress, 
+SQL Enterprises.
+ 
+Hacking/Forensic Tools: 
+N
+-
+map, aircrack
+-
+ng toolset
+.
+ 
+ 
+Operating System:
+ 
+Windows , Linux
+  
+; 
+Mobile OS
+: Android
+ 
+
+ACHIEVEMENTS
+ 
+&
+ 
+HONORS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+First Prize 
+in Autonomous
+ 
+and Manual combined
+ 
+Robotics Event during
+ 
+IMPRESSIONS
+, the Technical fest of
+ 
+JIIT
+.
+ 
+
+ 
+First Prize 
+in Codevengers, a Computer Progr
+amming inter
+-
+college fest event
+ 
+
+ 
+Finalists 
+in Canyon Rush, a Manual Robotics Event during 
+Technovoltz
+ 
+2015
+, the Techno
+-
+Management
+ 
+fest 
+at 
+IIT Bombay
+. 
+ 
+
+ 
+Finalists 
+in Combat Nautika, a water based robotics Event 
+during 
+Technovoltz
+ 
+2015
+, the Techno
+-
+Management
+ 
+fest at 
+IIT Bombay
+.
+ 
+
+ 
+First Prize 
+in sketching Event during
+ 
+IMPRESSIONS
+.
+ 
+ 
+ 
+ 
+ 
+                                                               
+KEY
+ 
+PROJECTS
+ 
+UNDERTAKEN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+PLAGRAM 
+
+ 
+An online plagiarism detection tool
+ 
+ 
+        
+Guide
+: 
+Dr. Manish Kr. Thakur ,
+ 
+Department of Computer Science Engineering, JIIT Noida
+ 
+                                   
+ 
+         
+A web app on which you can upload any document whether txt, doc or pdf
+, and your document will be 
+   
+processed and  checked through our database of 50000 documents and through advanced search over the entire net 
+  
+in no time and a nice dashboard UI for the user so that he can view the result of his files anytime anywhere 
+eff
+iciently. Several advanced data structures and algorithms have been implemented for the quick generation of 
+efficient results, another module includes live comparison of 2 text online in no time with the result highlighting the 
+ 
+ 
+same lines in the 2 texts 
+and the plag rate in an interactive manner
+ 
+ 
+  
+T
+echnologies
+ 
+used
+-
+  
+python,
+ 
+NLP,
+ 
+Django web framework, MongoDB, html, css3, jquery, javascript etc
+ 
+  
+S
+ite 
+link
+-
+ 
+www.plagram.pythonanywhere.com
+ 
+ 
+ 
+ 
+ 
+        
+JIITHUB
+-
+ 
+A social media site for college students
+ 
+ 
+                             
+A  social hub interaction site for a college facility i
+n which teachers and stud
+ents can signup and 
+interact 
+among themselves with the online chat mechanism and among the college hubs as w
+ell, different hubs 
+can post 
+their contents and stuff and students can respond to them ,join the hubs ,interact with teache
+rs, find the 
+ 
+ 
+students by their year or teachers by their departments to resolve their doubts,
+ 
+also users can post their own 
+status or post an image , edit their profile , change their profile pic and background image etc., therefore a full 
+ 
+ 
+ 
+fledged working social site.
+ 
+                              
+ 
+  
+Technologies
+ 
+used
+-
+    
+php,mysql,html,css3,javascript,jquery etc
+ 
+  
+ 
+Site
+ 
+link
+-
+  
+www.jiithub.pe.hu
+ 
+                                                                                 
+ 
+       
+ 
+        
+MOVIE RECOMMENDER
+ 
+ 
+ 
+                              
+An A.I. based project 
+which takes in your likings from facebook pages, and based on the genres of the 
+movie. Suggest or recommends the movies, based on the naïve bayes and k nearest neighbhour clustering algorithm.     
+ 
+ 
+Technologies
+ 
+used
+-
+    
+
+hon/flask, etc.
+ 
+                           
+ 
+ 
+                                                  
+ 
+ 
+ 
+ 
+       
+AUTOMATIC GARBAGE DISPOSAL BOT
+ 
+ 
+                             
+A  bot made by combination of servo motors and  various hardware tools integrate
+d with Arduino 
+board which provides automacity to the bot through code and input of various sensors, place it near your dustbin 
+and it will automatically detect and collect the waste lying around near the dustbin and put it inside the dustbin 
+without  your
+ 
+
+ 
+ 
+Technologies
+ 
+used
+-
+    
+Arduino board, Bluetooth sensor, Ultrasonic sensor, IR sensor, etc.
+ 
+                           
+
+              
+                    
+GETESSAY
+-
+ 
+An Extractive Essay Summarizer  
+ 
+ 
+                          
+Guide
+: 
+Dr. Manish Kr. Thakur ,
+ 
+Department of Computer Science Engineering, JIIT Noida
+ 
+                                   
+ 
+                            
+A web app on which you
+ 
+
+ 
+                            
+sport, or anything, of the desired length of sentences which you 
+want , the essay is produced in no time based on 
+ 
+                            
+the number of sentences you told and in chronological order of the desired topic through various web sources.
+ 
+ 
+                           
+T
+echnologies
+ 
+used
+-
+  
+python,
+ 
+NLP, TensorFlow,
+ 
+Django w
+eb framework, MongoDB
+, html, css3, jquery, javascript etc
+ 
+                           
+site 
+link
+-
+ 
+www.getessay.pythonanywhere.com
+ 
+ 
+ 
+ 
+ 
+ 
+RESEARCH
+ 
+&
+ 
+PUBLICATIONS
+ 
+ 
+ 
+ 
+Ongoing paper on
+ 
+under the guidance of:
+ 
+Dr. Manish Kr. Thakur and Dr.Sandeep Kr. Singh,
+ 
+Department of Computer Science 
+Engineering, JIIT Noida
+ 
+ 
+Goyal, U
+.
+, Chawla, S, Narang, R
+.,
+ 
+Khandelwal, A,
+ 
+
+Plagiarism Detection using advanced analysis
+
+ 
+ 
+ 
+POSITION
+ 
+OF
+ 
+RESPONSIBILTIES
+ 
+ 
+ 
+ 
+
+ 
+Volunteer 
+at 
+International Conference on Contemporary Computing, 2015,2016
+ 
+ 
+
+ 
+Head Student 
+Technical Volunteer
+ 
+of
+ 
+U
+CR, 
+Micro
+-
+Controller based Robotics Hub, JIIT Noida.
+ 
+ 
+ 
+
+ 
+Volunteer 
+ 
+at CyberSrishti Inter College Technical Fest.
+ 
+
+ 
+Volunteer 
+ 
+at Android Workshop
+, held in our college.
+ 
+ 
+
+ 
+Social Media Team Member in one of the biggest Technical event, 
+SAP Techniversity
+ 
+in 2014 at JIIT
+ 
+
+ 
+Contributed towards SmartBook 
+ 
+Beta
+-
+Testing
+ 
+at 
+Tata Mc Graw Hill Education
+, Noida
+. 
+ 
+ 
+ 
+ 
+ 
+EXTRA
+ 
+CURRICULAR
+ 
+ACTIVITIES
+ 
+ 
+ 
+
+ 
+Sketch Artist
+ 
+
+ 
+play 
+basketball, badminton and swimming
+.
+ 
+
+ 
+Languages known
+: English, Hindi, French.
+ 
+
+ 
+making several 
+robotics projects
+.
+ 
+
+ 
+project exhibitionist
+ 
+at IEEE Conference 2015.
+ 
+
+ 
+participated in eco hub of college.
+ 
+
+ 
+play
+s
+ 
+acoustic guitar.
+ 
+
+ 
+participated in various non
+-
+tech competitions in our college.                                  
+ 
+ 
+ 
+ 
+

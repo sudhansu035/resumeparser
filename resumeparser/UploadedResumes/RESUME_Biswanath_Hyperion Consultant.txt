@@ -1,0 +1,229 @@
+Biswanath Nanda
+Hofgeest 1351102 EG Amsterdam,
+Netherlands                                                   Linked in : www.linkedin.com/in/biswanath-nanda
+Objective                                                                                
+Seeking position as lead Hyperion Consultant in which I can be a major contributor, enhance my skills, and broaden my areas of expertise. I am enthusiastic about continuing my experience and/or advancing to new areas. I have proven my ability to meet challenges with 8 years of diverse experience, and I am now ready for a new challenge where we can help enterprise in making best decisions for better business.
+Professional Summary
+TATA Consultancy Services– Solution Engineer
+IBM INDIA PVT LTD – Package Solution Consultant
+ORACLE INDIA PVT LTD - Solution Engineer in Sales and Solution Development in EPM,BI and Analytics division for ORACLE North America Cloud Solution Engineering Hub. My key role was to work on various IaaS ,PaaS and SaaS offerings.
+ING Bank - Working as Senior Hyperion techno functional Consultant in Advanced Analytics, BI and EPM for managing on-boarding and Platform services at ING. I am working as on Hyperion Planning ,Essbase, HPCM and HPCM application development and enhancement activities for the bank. I am also handling the infrastructure platform and working as a part of innovation team to try and test different Financial planning ,Cloud infrastructure and DevOps tools.
+I am working as a contractor for ING bank under the permanent payroll of HCL Netherlands B.V.
+Professional Achievements
+Recognized as the Platform Specialist of the Quarter by Oracle Senior Vice President Sales and CSM Hamidou Dia for closing one of the biggest deal of the quarter with Symantec.
+Linked In URL - https://www.linkedin.com/feed/update/urn:li:activity:6361410264247701504
+Awarded with Customer Delight award in Oracle Cloud Solutions Hub for demonstrating the integration of IOTCS , Big data cloud services and Oracle Analytics services.
+Awarded with Going Extra Mile Award in Oracle Cloud Solution hub for demonstrating technical Leadership in designing Oracle Analytics Product design and Documentation.
+Manger Choice Award in IBM India PVT Ltd.
+Awarded with Employee of the Month in TATA consultancy services.
+Firm Initiatives and Innovation
+Worked in designing the architecture and solutions for One Instance application strategy by aligning data source systems ,management accounting mappings ,DRM feed , designing of HFM and Planning applications.
+Designing CCP –SOAP services to automate the Password Management system at ING using Python scripting for automating password vault access control.
+Implemented Essbase Write back feature from Data Visualization desktop using Rest API.
+Implemented migration of Hyperion Planning application to Anaplan.
+Integrated the Essbase data load from Big Data Hive tables using Rest APIs.
+Performed end-to-end configuration and integration of IOT services, Big data cloud services and OAC Data visualization to display predictive analytics and machine learning.
+Integrated the Connectivity of PBCS application with OAC BICS to display financial reporting.
+Implemented Quality control charts in R, hosted a server and integrated the set up with EBS environment.
+This help business to monitor the quality of products processed in the product pipeline.
+Implementation of Oracle Block Chain Cloud services and presenting customer POC.
+Automated Metadata load and EPMA cube deployment process using Python scripting and FDM data load.
+Professional Expertise
+Sound knowledge in Windows 2008 r2 server maintenance and administration activities.
+Worked in AMS support for IBM Sterling B2B Integrator V5.2.
+Handful experience in IBM cognitive solution designing.
+Education
+Bachelor of Technology in Electronics & Telecommunication Engineering from Orissa Engineering College (under Biju Patnaik University of Technology) in 2011.
+Passed HSC (+2 stage) and SSC from Kendriya Vidyalaya No. 3, Bhubaneswar, Orissa in year 2006 and 2006 respectively. 
+Certification
+Oracle Certified Hyperion Planning Implementation specialist Version 11
+Oracle Certified Hyperion Essbase Implementation specialist version 11
+Oracle Certified Hyperion Financial Management implementation specialist version 11
+Tech Mahindra Certification Program in Artificial Intelligence -Ongoing
+Professional Training 
+Oracle BI
+Oracle Data Visualization
+Oracle Analytics Cloud.
+Oracle EPM – PBCS and FCCS
+Oracle Data Integrator
+Docker and Kubernetics
+Amazon Web Services
+Anaplan
+Oracle Analytics Cloud
+IOT cloud services
+Machine Learning Algorithms using Python and R scripting
+DevOps training
+Ansible
+Agile way of Working
+HP ALM/QFT
+Operating Systems
+Windows XP/ 7 /Server 2008, Linux
+Technologies and Tools
+Oracle SaaS Products – PBCS,FCCS                                        
+Oracle PaaS Products   
+Oracle Analytics cloud
+Oracle DBAAS
+Oracle Dig Data Cloud Services
+Oracle IOT service
+Oracle EPM – Hyperion Planning and Essbase , Hyperion Financial management.
+Oracle BI and BICS
+Oracle Data Integrator
+Oracle Data Visualization
+Machine Learning using R
+Python – Pycharm, Spyder
+AWS – EC2 , Cloud Formation template, AWS lamda, IAM
+R studio
+IBM Sterling B2B Integrator
+RDBMS/DBMS
+Oracle SQL /PLSQL
+Professional Expertise
+Around 8 years of IT Industry experience with EPM Consulting, Presales and DevOps engineer dealing with gathering requirements and designing EPM applications , designing reports and dashboard ,system integration, configuration management, managing platform services, Build, Release Management and Quality Assurance on UNIX and Windows environment.
+I have my own HFM BlogSpot where I have tried to explain some HFM topics:
+http://biswanat.blogspot.in/
+Hands-on experience in AWS Identity and Access Management in managing users, groups ,roles and policies.
+Expertise in Amazon Elastic compute cloud in managing instances, AMI, EIP, security groups and key pairs.
+Experience with Linux systems, virtualization in a large-scale environment, experience with Linux Containers (LXC) and Docker.
+Knowledge in setting up and managing Amazon Relational Database Service.
+Perform Configuration management and Automation using Ansible.
+Expertise in setting up Oracle Analytics service, Oracle dbaas.
+Knowledge on containerizing Vprofile all the services with Dockerfile and Build.
+Setting up Kubernetes Definitions for Vprofile all the containers and services.
+Practitioner in Agile way of working.
+In-depth experience in Software Sales Methodology and top performer in Oracle Sales Ignite program.
+Expertise in building Customer Demos and POCs by integrating different cloud offerings.
+Expertise working with Product development team and helping them in creating Product videos in Otube and preparing Demo tracks.
+Working with Oracle Customer Success Management team to onboard customers into cloud and provide consulting in configuring the PassS and IaaS offerings.
+Actively participated in Oracle Cloud hub innovation complains and worked with IT companies to demonstrate the product features.
+Sound knowledge and worked as a developer for Oracle SQL and PL SQL.
+Sound knowledge of UNIX shell scripting and designing automations.
+Worked on developing functional Automations using Unified Functional Testing Automation.
+Hands on expertise in Ansible.
+Sound knowledge in Windows 2008 r2 server maintenance and administration activities.
+Worked in AMS support for IBM Sterling B2B Integrator V5.2.
+Expertise in IBM cognitive solution designing and IBM Watson.
+Expertise in production configuration and Application development in IBM Cognos ,Oracle EPM and Anaplan .
+Development exposure to UC4 job scheduler.
+Project Details
+ING Bank Netherlands (FROM   June 2018 – Current)
+Performing end to end implementation of Hyperion Planning , HFM and HPCM applications.
+Performing requirement gathering from customer and designing Planning applications.
+Migrating on premise EPM application to Cloud.
+Designing complex FDMEE integrations to automate data transformation and load to Hyperion Application.
+Working directly with customer to build and design Hyperion Planning and HPCM application.
+Automating the metadata load process for Hyperion Apps.
+Suggesting best practices for Hyperion Budgeting and Planning cycles.
+Hyperion financial management architecture designing for the Bank.
+Expertise in managing Hyperion Planning ,Essbase and HFM applications
+Design HFM Grids and forms and worked on FR studio.
+Hands-on in designing HFM consolidation scripting.
+Copying and clearing data for HFM
+End to end security management for EPM tools.
+Worked on HFM rule designing and journal issue analysis.
+HFM and ODI integration Analysis and Designing for the Bank.
+Users & Group administration in Unix servers and acting point of contact for managing the Access Control for ING Business Advisory tribe.
+Responsible to trouble sooth security and network port issues for Linux and Windows servers.
+Part of solution engineering squad and responsible to build POC and customer demo for Docker , process automation ,building Analytics models and integrating open source technologies to build sustainable solution for customer.
+In-depth expertise in building custom images using Docker file and through container and pushing it to the Docker hub.
+Worked on automating process using DevOps tools such as Ansible ,HP ALM/QTP.
+Worked on designing reports and visualizations using Python and R scripting. Hands on experience in performing analytics using Python Scripting and building queries for cleansing raw data using pyspark.
+Building Anaplan Models as an enhancement to in-house budgeting capabilities.
+Designing Analytics dashboard on the top of Finance Data and helping customers in their forecast process.
+Oracle India PVT. LTD (FROM August 2017 – June 2018)
+Project Title: Dell Hyperion Upgrade
+Activity –
+Moved the Hyperion on premise environment from On premise to Oracle IaaS.
+Analysis of 
+Building financial Analytics cube using Essbase and Oracle Data Visualization
+Performed system and Application performance tuning.
+Project Title: Ally Bank Inc
+Activity –
+Worked on PBCS application Development and designing FDM dataload jobs.
+Designing EPM automate automations for PBCS cube.
+Moved the EPM on premise environment from on-premise to Oracle Cloud.
+Performed end-to-end development of Planning and Essbase Application.
+Designed Hybrid BSO cube and performed script optimizations.
+Project Title: Drigold Inc
+Activity –
+Moved the EPM on premise environment from on-premise to Cloud.
+Converted ASO cubes to BSO cube.
+Implemented Hybrid Essbase BSO cubes for customer.
+Performed Application performance tuning.
+Implemented What if forecast models and integrated the Essbase data with Data Visualization to build predictive modelling with Essbase data, which helped customer to analyze the Sales trend.
+Project Title: Regal Beloit
+Activity –
+Migrated the BI reports from 12C to OAC BI.
+Implemented Quality control charts using R and Oracle Data Visualization desktop.
+IBM INDIA PVT. LTD (FROM March 2015 – August 2017 )
+Project 1:
+Project Title: City Bank AMS Support 
+Client: City Bank
+Domain               : Banking
+Designation: UNIX Developer
+Location: Kolkata, India
+Duration: Dec 2016 – Aug 2017
+CLIENT DESCRIPTION: 
+City Bank offers a wide array of Investment and Corporate Banking products or services for corporations, institutions and high net-worth clients. It offers a full range of financial products or services to serve the needs of small organizations, institutional and individual investors. Operations and Technology Partners with both the institutional clients group and consumer bank to build processes, streamline them across functions or divisions and ensure their seamless implementation.
+ROLE – 
+I worked as Support delivery lead for Java based customized Forecasting Applications for Ruby and IN-Control application.
+Preparing project handover document and ensuring smooth transition of project from previous vendor.
+Responsible for server health checkup and data file pursing process in server.
+Responsible for deploying product packages in UNIX environment.
+Running, monitoring and debugging Spring batch scheduler job.
+Trouble shooting data transformation issue and ensuring on time forecast close.
+Performing log debugging of the forecast batch loads.
+Preparing SQL reports and working with development team to resolve Application issues.
+Developed the data load failure report generation using UNIX shell scripting.
+Project 2:
+Project Title: Corporate 
+Client: Advanced Auto Parts
+Domain: Automobile
+Designation: Package Consultant
+Location: Kolkata, India
+Duration: March 2015 – Nov 2016 
+CLIENT DESCRIPTION: 
+Advance Auto Parts, is headquartered in Roanoke, Virginia, and is now the largest retailer of automotive replacement parts and accessories in the United States after acquiring CARQUEST in October 2013. AAP have over 4200 stores across the United States which is serviced by thirteen distribution centers spread across different regions. AAP AMS team from IBM from different global delivery centers across the globe provides 24x7 support to different systems involved in AAP business such as Supply Chain, Merchandising, Corporate systems, Store systems, eCommerce, etc.
+The project involves development and support to Hyperion Planning and HFM applications, performing administration activities and performing development tasks when requested for.
+ROLE – 
+I worked as SME and performed Hyperion Planning application development and administrative activates.
+Performed requirement gathering and design of Hyperion Planning Applications.
+Worked as a module lead and was responsible for analyzing and troubleshooting HFM production support issues.
+Worked on the Ownership management, equity pickup and processing ICP transaction modules in HFM.
+Hyperion server architecture analysis and write up.
+Streamlined the budgeting process in my project.
+Preparing development estimates and write ups.
+Developed Data load integrations using FDMEE.
+Automated the scheduling of Hyperion data flow and data extraction process using UC4 scheduler.
+Automated the application metadata load process.
+Reconfigured Hyperion shared service and reinstated the security distribution.
+Managed server outage activities.
+Performed performance Optimization of Hyperion application.
+Involved in managerial and team building activity for Hyperion AMS support.
+Provided AMS support for IBM Sterling B2B Integrator
+Performed Unix shell scripting automations.
+Developed automated jobs and processes in UC4 job scheduler.
+Developed data load integrations using ODI.
+TATA CONSULTANCY SERVICES (FROM SEPTEMBER 2011 – To March 2015 )
+Project 1:
+Project Title: Alcoa Application Development and Support
+Client: Aluminum Company of America
+Domain: Energy and Resource
+Designation: Application Developer
+Location: Kolkata, India
+Duration: Oct 2011 – March 2015
+CLIENT DESCRIPTION: 
+Alcoa is leading producer of primary Aluminum and Alumina. This project FAST (Forecasting Alcoa Success today) scope is design, selection and implementation of new processes and tools in the area of forecasting and financial planning for all business units worldwide. Also, integrate actuals and forecast/plan data with efficient, effective and flexible reporting tools. It involves the supporting of existing Hyperion planning/ Essbase ,DRM and HFM applications.
+ROLE - 
+I worked as a team member and work a single point of contact for supporting Planning applications, DRM Applications, HFM application and ODI.
+Responsible for requirement gathering, technical and functional issue debugging for planning applications.
+Responsible for debugging HFM metadata, administrative and Journal issues.
+Responsible for managing and maintaining metadata through and in DRM application.
+Designed import and export scripts.
+Designed hierarchy properties.
+Responsible for issue debugging for ODI
+DETAILED PROFICIENCY AND RESPONSIBILIES –
+Personal Profile
+Sex:  Male
+Marital Status:  Unmarried
+Nationality:  Indian
+Languages known  :  English, Hindi, Odiya and Bengali.
+Date of Birth                     : 16 Oct 1989

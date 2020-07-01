@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    {% load staticfiles %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Wendy+One" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
+    <title>resumeparser</title>
+</head>
+<body>
+<h1 style="text-align: center">Upload your resume here and get all the details shown seperately...</h1>
+<h1 style="text-align: center">You can upload your resume in text , pdf , docx format...</h1>
+<div style="align-items: center;text-align: center">
+ <form enctype = "multipart/form-data"
+         action = "{% url 'start:index'%}" method = "POST" style="
+    padding-left: 100px;
+">
+          {% csrf_token %}<label class="btn btn-primary">choose file..
+                            {{ fileform }}
+                            </label>
+                            <input class="btn btn-success" type="submit" value="Submit"/>
+                            </form>
+    </div>
+</body>
+</html>

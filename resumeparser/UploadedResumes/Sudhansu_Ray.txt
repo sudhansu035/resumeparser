@@ -1,0 +1,170 @@
+SUDHANSU RAY
+  sudhansu.035@gmail.com
+                                                                                    
+91-9866412676
+  SUMMARY
+: Senior Solution Engineer
+ with
+ 9+ years of 
+experience
+ in IT industry including 3+ years of experience as 
+Spark 
+Developer
+ and 
+ 7+ years of Java Technologies.
+ Hands on experience in Hadoop Big data technology working on
+ Spark Streaming, MapReduce, Hive
+ as 
+Analysis tool, Sqoop and 
+Kafka 
+data import/export tools.
+ Excellent implementation knowledge of Distributed / Enterp
+rise systems using
+ Java
+, Spring Boot, Micro 
+services, Docker,
+ JUnit, Log4J and Maven.
+ Lead team of development through daily operations and mentor them. I am also an individual contributor.
+  TECHNICAL SKILLS:
+ Hadoop, Hive, Spark
+ 2.x
+, Kafka
+ 2.x
+, Java
+ 8, Ora
+cle DB, 
+Azure
+ Cloud
+, Spring Boot
+, Micro Services
+  Education
+  EMBA from 
+Jain University
+, Bengaluru
+ with 7.2 CGPA (2017
+-2019).
+ BTech in Electronics from ITER, B.P.U.T, Odisha with 7.18 CGPA (2008).
+  Experience
+  Project Manager
+        
+        July
+-2019- Pres
+ent
+ Cognizant
+ Working on migration project.
+ Senior Solution Engineer
+        
+       Aug 2017 
+ March 2019
+ Oracle    
+ Project I: Oracle 
+Cloud 
+Lab
+      Project description: 
+ OCL help to create Data Lake using 
+Kafka,
+ Hive, 
+and Spark 
+and cloud object store.
+ All these data is collected, aggregated and analyzed in the Hadoop cluster
+ with Ambari
+ to find patterns, user
+ preferences.
+ Role and responsibilities:
+  Building real time event processing systems based on 
+Spark Kafka streaming
+.   Implemented
+ SparkR program to lo
+ad data and 
+supports distributed
+ machine learning
+.  Created Hive queries that helped market analysts spot emerging trends by comparing fresh data with 
+reference tables and historical metrics. 
+  Mentored the new joiners and take active leadership in arranging
+ innovative workshops.
+ Technology used:
+ Spark Streaming
+, Kafka, Hive, Oozie, Sqoop, Oracle Cloud
+ & Database
+, Spring Boot
+    
+Senior Software Engineer        
+       July 2016 
+ Aug 2017
+ Innominds
+ Project II: 
+CFITR
+       Project Description: 
+ The Indirect Tax 
+Recovery application will assist Tax teams in identifying and reviewing recoverable taxes 
+paid through automating data extraction, tax rules application, and optical character recognition and 
+extraction of invoices. It 
+used
+ cognitive technology to convert 
+unstructured data into normalized data.
+   Role and responsibilities:
+  Improved Data Mining process, resulting 20% decrease in time needed to infer insights from 
+customer data for marketing strategies.
+  Developed Map Reduce programs to parse the raw data, pop
+ulate staging tables and store the refined 
+data in partitioned tables
+   Developed Oozie workflow to automate the loading of data and
+ Kafka program for stream analysis.
+  Technology 
+used:
+ Kafka, Hive, Oozie, Sqoop, Map
+ Reduce, HDFS, 
+Pentaho
+  System Analyst   
+     
+         Dec 2013 
+ June 2016
+ ValueLabs
+ Worked as Onsite coordinator and interact with customer.
+ Developed ETL framework using java and hadoop (including daily runs, error handling, and logging) to 
+improve vendor negotiations.
+ Performed cleaning and f
+iltering on imported data using Hive and MapReduce.
+ Assisted in the necessary training session for the migration process and completed the projects on time.
+  Technology Used: 
+Spring MVC, Java, jquery, Ajax, and 
+Web services
+  Java Programmer        
+        Jan 2011 
+ Dec 2013
+ Digiverse Technologies
+ Developed new application and added functionality to existing applications using Java/J2EE technologies.
+ Wrote 
+optimized 
+SQL queries to retrieve data from the database using JDBC.
+ Utilized Spring 
+MVC 
+for persisten
+ce and application layers.
+ Implemented Restful web services in Java with REST implementation.
+ Technology Used: 
+Struts and spring based framework, Java, xml, jquery, Ajax, Mysql, and Webservices
+  Software
+ Programmer        
+        Mar 2009
+  Dec 2010
+ Cachet
+ Software 
+ Joined as Software Trainee and then deployed for their client.
+ Worked for Vimta Specialty for their pharma adverse effect development team.
+ Worked for kioskmint to create their web
+ based
+ application.
+ Technology Used: 
+Java,JSP,Java script,Webserv
+ices
+ PROFILE
+:  
+  Seeking to offer unique insights on 
+cloud and bigdata 
+investment trends while developing my skills in 
+leadership and management
+. I am 
+passionate about mentoring
+ and conducting workshops for knowledge share purpose
+.  

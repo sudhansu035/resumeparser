@@ -1,0 +1,910 @@
+C
+-
+274 (A), Indra Vihar,
+ 
+                    
+   
+   
+N
+ISCHAY
+ 
+G
+UPTA
+      
+ 
+   
+   
+  
+gnischay2@gmail.com
+ 
+Kota, Rajasthan
+.
+           
+               
+ 
+                             
++
+ 
+91
+-
+9560072360
+ 
+ 
+            
+      
+CAREER OBJECTIVE
+ 
+ 
+To be an innovator and make 
+successful contribution in the field of technology by delivering the best in class 
+technical skills and fostering innovation practices.
+ 
+ 
+        
+E
+DUCATIONAL QUALIFICATION
+ 
+ 
+Degree
+ 
+Discipline
+ 
+Institute
+ 
+Year
+ 
+CGPA
+ 
+/ 
+Percentage
+ 
+Bachelors of 
+Technology 
+(B.Tech)
+ 
+Electronics & 
+Communication
+ 
+Jaypee Institute of Information 
+Technology, Sector 62, Noida.
+ 
+2016
+ 
+ 
+7.
+5
+/10
+ 
+ 
+Senior Secondary
+ 
+CBSE
+ 
+Modern Senior Secondary School, Kota.
+ 
+2012
+ 
+89
+.
+4
+0
+ 
+%
+ 
+High School
+ 
+CBSE
+ 
+Modern Senior Secondary School, Kota.
+ 
+2010
+ 
+87.4
+0
+ 
+%
+ 
+ 
+ 
+                                    
+                           
+ 
+    
+IN
+DUSTRIAL
+ 
+EXPERIENCE
+ 
+ 
+Wipro Limited
+,
+ 
+Greater Noida
+,
+ 
+India
+                    
+                 
+    
+                               
+[
+February
+ 
+
+6
+ 
+-
+ 
+J
+u
+ne
+ 
+
+6
+]
+ 
+ 
+Trainee
+ 
+ 
+  
+
+Assurance Customer Service Prob
+lem
+ 
+Management
+ 
+through SDN
+"
+ 
+ 
+  
+The project deals with creating a blueprint network of integrated 
+O
+penstack and 
+O
+pen
+D
+ay
+L
+ight. A conducive    
+ 
+  
+environment is created where user can implement his northbound applications.
+ 
+ 
+Philips
+ 
+India Limited
+ 
+(
+Healthcare Innovation Center
+),
+ 
+Pune,
+ 
+India
+                    
+                 
+[
+June
+ 
+
+5
+ 
+-
+ 
+J
+uly
+ 
+
+5
+]
+ 
+ 
+Research 
+Intern
+ 
+ 
+
+Philips B.V.Vectra Mobile C Arm System
+
+ 
+ 
+  
+ 
+A
+ll basic steps involved in manufacturing of the machine such as Mechanical, Electrical, MVS Assemblies, Testing, 
+  
+ 
+  
+ 
+Quality checking and packaging were carried 
+out.
+ 
+Six
+ 
+Sigma Lean
+ 
+methodology was 
+adopted
+ 
+and several 
+suggestions 
+ 
+   
+including
+ 
+Visual Control in Le
+an Manufacturing 
+were 
+also 
+propo
+sed to reduce the
+ 
+Lead Time.
+
+ 
+Received a
+ 
+Letter of
+ 
+Appreciation from
+ 
+General Manager of Manufacturing and Business Excellence, Healthcare 
+Innovation Center, Philips India Ltd.
+ 
+after 
+successful completion of
+ 
+the
+ 
+internship
+.
+ 
+ 
+ 
+ENTREPRENEURIAL INITIATIVE
+ 
+ 
+Technical Officer
+ 
+
+We Do Sky, New Delhi
+
+          
+                          
+                        
+ 
+   
+[July
+ 
+
+4
+ 
+
+ 
+Feb
+ 
+
+]
+ 
+ 
+
+ 
+Co
+-
+developer 
+of
+ 
+several 
+Data Science
+ 
+Pr
+ojects carried out by 
+We Do Sky
+ 
+such 
+as
+
+generation
+ 
+of
+ 
+NDVI based 
+Aerial 
+map
+s for smarter farming decisions, 
+Generat
+ion of
+ 
+high resolution 3D Maps 
+&
+ 
+360
+° panoramas for Real
+-
+estate 
+properties
+ 
+and
+ 
+Generat
+ion
+ 
+Aerial films 
+&
+ 
+videos for various Mega shows 
+&
+ 
+events.
+
+ 
+Co
+-
+
+-
+
+                                                   
+[Sept
+ 
+
+ 
+
+ 
+July
+ 
+
+ 
+ 
+
+ 
+Co
+-
+taught
+ 
+Autono
+mous & Manual Robotics
+ 
+to various undergraduate college and school students in many 
+workshops and camps throughout the tenure. Shared responsibility for 
+developing 
+lecture
+ 
+content
+, home 
+assignments, 
+&
+ 
+competitive event
+s
+.
+ 
+Also, 
+h
+andler
+ 
+of
+ 
+marketing 
+&
+ 
+advertising budgets
+ 
+of the startup.
+
+ 
+
+ 
+  
+ 
+ 
+     
+TECHNICAL 
+& INDUSTRY 
+SKILLS
+ 
+ 
+
+ 
+Programming languages
+: Basic C, Basic
+ 
+Java, HTML, CSS,
+ 
+SQL
+
+
+ 
+Areas of Interest
+
+
+Robotics, Drones
+, Telecommunication
+.
+
+
+ 
+Industry/
+Manufacturing
+ 
+Skills: 
+Integration of Six Sigma Lean methodology in Product development.
+
+
+ 
+Software 
+P
+ackages: 
+MATLAB, Cadence Orcad, 
+Cadsoft Eagle, Arduino IDE
+, TSpice, Ledit, Ad
+obe Photoshop, Adobe 
+Dreamweaver
+.
+
+
+ 
+Hardware Skills: 
+Arduino
+ 
+Development Board
+, 
+Atmega 328, 
+PCB Fabrication
+ 
+&
+ 
+Soldering.
+
+
+ 
+Web Development Tools:
+ 
+Phpmyadmin, Wamp/Xampp Servers, FileZilla, WordPress, Joomla, SQL Enterprise
+s
+.
+
+
+ 
+Hacking/Forensic Tools:
+ 
+N
+-
+map, Cain & Abel, Ophcrack, Netsparker, Acunetix, Helix, Encase, FTK, Recuva, Deft.
+
+ 
+          
+ACHIEVEMENTS & HONORS
+ 
+ 
+
+ 
+First Prize
+ 
+in Autonomous Robotics Event during 
+INNOVISION
+, the Technical fest of 
+NSIT, Delhi.
+
+
+ 
+Second Prize
+ 
+in Vortex, an Autonomous Robotics Event during 
+TECHFEST
+-
+2015
+, the Technical fest of 
+IIT Bombay.
+
+ 
+
+ 
+Second Prize
+ 
+in Autonomous Robotics event
+ 
+at Technical fest of
+ 
+IGDTU, Delhi.
+ 
+
+
+
+ 
+Second Prize
+ 
+in Compito Impromptu, an Autonomous Robotics Programming inter
+-
+college event.
+ 
+
+
+ 
+Finalists
+ 
+in Canyon Rush, a Manual Robotics Event during ROBOTIX in 
+KSHITIJ 2014
+, the Techno
+-
+Management 
+fest at 
+IIT Kharagpur
+.
+
+
+
+ 
+B
+est Mechanism Award
+ 
+in Numerthon, a Manual Robotics inter
+-
+college event.
+
+
+ 
+ 
+                              
+                        
+KEY PROJECTS UNDERTAKEN
+ 
+ 
+AE
+RIAL IMAGING FOR AGRICULTURE THROUGH
+ 
+NDVI
+ 
+ 
+ 
+ 
+
+ 
+The Aim of the project was to 
+evaluate 
+the h
+ealth of vegetation
+. A 
+digital camera was converted into an infrared 
+camera
+ 
+which was mounted on a drone
+. 
+Aerial p
+hotos
+ 
+clicked with 
+the 
+IR Camera were processed
+ 
+using NDVI 
+algorithm
+ 
+and
+ 
+the obtained 
+images
+ 
+d
+e
+termine
+d
+ 
+the health of the plant.
+
+
+ 
+ 
+
+ 
+WIRELESS REMOTE FOR CANON CAMERA
+ 
+ 
+ 
+ 
+
+ 
+A 
+Wireless
+ 
+R
+emote
+ 
+which can control all
+ 
+functions of the camera such as Z
+ooming in and out, clicking 
+photo
+s
+, 
+switching between video 
+&
+ 
+image modes etc. was developed.
+ 
+Th
+e
+ 
+application 
+was to control the camera from 
+a distance
+. 
+For e.g.
+ 
+C
+amera mounted on a 
+drone
+ 
+can easily be controlled to capture Aerial images 
+&
+ 
+videos.
+
+ 
+ 
+S
+OCIAL MEDIA ANALYSIS TOOL
+ 
+ 
+ 
+Guide
+: 
+Dr
+. 
+Manish K
+r
+. Thakur
+,
+ 
+De
+partment of Computer Science
+ 
+Engineering, 
+J
+IIT 
+Noida
+ 
+ 
+
+ 
+A
+ 
+standalone 
+Windows 
+Desktop Application
+ 
+which behaves as an 
+A
+nalytics 
+T
+ool for 
+S
+ocial networking
+ 
+behavior of 
+the users
+ 
+was developed
+.
+ 
+This application helps us to find users of different social network sites 
+&
+ 
+analyze their 
+behavior using different graph plots. 
+For e.g.
+ 
+Graphs between Like
+s
+, Com
+ment
+s
+, Share, Follow etc. 
+with respect to 
+each other 
+can be easily 
+plotted
+.
+
+ 
+            
+RESEARCH & PUBLICATIONS
+ 
+ 
+
+ 
+Gupta, N.
+
+Obstacle Detection and Collision Avoidance using Ultrasonic Sensors for RC 
+Multirotors
+
+&
+ 
+Communication (ICSC
+-
+2015), IEEE. pp. 41
+9
+-
+4
+23
+, 
+16
+-
+18 March 2015.
+ 
+DOI: 10.1109/ICSPCom.2015.7150689.
+ 
+[IEEE Xplore]
+
+Publication Link:
+ 
+ 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7150689
+ 
+ 
+
+ 
+Dev
+, 
+T
+.
+,
+ 
+Gupta
+, 
+N
+.
+, 
+Goel
+, 
+Y
+
+The Master Slave Evolution of Technology and Culture
+: An Exposition on Culture 
+shaping 
+machines
+ 
+and 
+machines shaping Culture
+
+6
+ 
+Gyancity Journal of Engin
+eering and Technology. 
+
+ISSN
+: 2456
+-
+0065
+.
+ 
+DOI
+:
+ 
+10.2
+10
+58
+/gjet.2016.2203
+
+Publication Link:
+ 
+ 
+http://gjet.gyancity.com/Vol2No2/Vol2No2Paper3.pdf
+ 
+ 
+ 
+                                                         
+ 
+   
+ 
+ 
+ 
+EXTRA CURRIC
+U
+L
+AR
+ 
+ACTIVITIES
+ 
+ 
+
+ 
+Volunteer 
+
+
+
+ 
+
+Knowledge for all
+
+.
+ 
+Mission Knowledge For All (KFA) is a 
+national level program which is committed to provide basic education and healthcare to the under privileged 
+children.
+
+ 
+
+ 
+Head 
+Student 
+Coordinator of
+ 
+
+CR
+,
+ 
+Micr
+o
+-
+Controller based Robotics Hub, JIIT Noida.
+
+
+ 
+Vice Chair of IEEE Student Branch STB
+-
+01711. 
+Student 
+Coordinator
+ 
+of 
+O
+rganiz
+ing Committee 
+in
+ 
+International
+ 
+Conference of Signal P
+rocessing & Communication 2015.
+
+
+ 
+Social Media Team 
+Member
+ 
+in 
+one of 
+the biggest 
+T
+echnical event
+,
+ 
+SAP Techniversity
+ 
+in 2014
+ 
+at JIIT Noida
+.
+
+
+ 
+Contributed towards SmartBook 
+Beta
+-
+Testing
+ 
+at 
+Tata Mc
+ 
+Graw Hill 
+Education
+, Noida.
+
+
+ 
+Participated in 
+Jaypee Model United Nations
+ 
+as a Delegate of Czech Republic in General Assembly at Jaypee United 
+Nations Conference, 2013.
+
+
+ 
+Campus Ambassador
+ 
+at Thomso, IIT Roorke 2013 and Prastuti, IIT BHU 2013.
+
+
