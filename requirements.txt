@@ -9,4 +9,3 @@ Pillow==7.0.0
 PyPDF4==1.27.0
 pytesseract==0.3.4
 Wand==0.6.1
-tesseract==0.1.3
