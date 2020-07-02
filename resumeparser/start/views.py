@@ -51,12 +51,14 @@ def get_docx_text(path):
 
 def convertpdf(name):
     #print("hiiii")
-    pdfobj=open("UploadedResumes/"+str(name), 'rb')
+    my_path = os.path.abspath(os.path.dirname(os.path.abspath(__file__)))
+    path = os.path.join(my_path, "../UploadedResumes/")
+    pdfobj=open(path+str(name), 'rb')
     pdfreader=PyPDF2.PdfFileReader(pdfobj)
     #print(pdfreader.numPages)
     x = name[0:len(name)-3]
     desturl =str(x)+"txt"
-    fob = open("UploadedResumes/"+desturl, "w", encoding="utf-8")
+    fob = open(path+desturl, "w", encoding="utf-8")
     for page in pdfreader.pages:
         s = page.extractText()
         #print(s)
@@ -68,7 +70,7 @@ def convertpdf(name):
     fob.close()
     pdfobj.close()
 
-    final_path="UploadedResumes/"+desturl
+    final_path=path+desturl
     if file_is_empty(final_path):
         convertpdf1(name)
 
@@ -80,14 +82,16 @@ def file_is_empty(path):
         return os.stat(path).st_size == 0
 
 def convertpdf1(name):
-    pdf_path="UploadedResumes/"+str(name)
+    my_path = os.path.abspath(os.path.dirname(os.path.abspath(__file__)))
+    path = os.path.join(my_path, "../UploadedResumes/")
+    pdf_path=path+str(name)
     pdf = wi(filename=pdf_path, resolution=300)
     pdfImg = pdf.convert('jpeg')
     imgBlobs = []
     extracted_text = []
     x = name[0:len(name) - 3]
     desturl = str(x) + "txt"
-    fob = open("UploadedResumes/" + desturl, "w", encoding="utf-8")
+    fob = open(path+ desturl, "w", encoding="utf-8")
     for img in pdfImg.sequence:
         page=wi(image=img)
         imgBlobs.append(page.make_blob('jpeg'))
@@ -102,17 +106,19 @@ def convertpdf1(name):
     fob.close()
 
 def handle_uploaded_file(file, name, content):
-    fo = open("UploadedResumes/" + str(name), "wb+")
+    my_path = os.path.abspath(os.path.dirname(os.path.abspath(__file__)))
+    path = os.path.join(my_path, "../UploadedResumes/")
+    fo = open(path + str(name), "wb+")
     for chunk in file.chunks():
         fo.write(chunk)
     fo.close()
     if content.endswith("pdf"):
         convertpdf(name)
     if content.endswith("document"):
-        text = get_docx_text("UploadedResumes/"+str(name))
+        text = get_docx_text(path+str(name))
         text = os.linesep.join([s for s in text.splitlines() if s])
         s=str(name)
-        fo = open('UploadedResumes/'+s[:s.rfind('.')]+".txt", "w",encoding="utf-8")
+        fo = open(path+s[:s.rfind('.')]+".txt", "w",encoding="utf-8")
         fo.write(text)
         fo.close()
 
@@ -134,10 +140,12 @@ def index(request):
             else:
                 x = file.name[0:len(file.name) - 3]
             desturl = str(x) + "txt"
-            fo = open("UploadedResumes/" + desturl, "r", encoding="utf-8")
+            my_path = os.path.abspath(os.path.dirname(os.path.abspath(__file__)))
+            path = os.path.join(my_path, "../UploadedResumes/")
+            fo = open(path + desturl, "r", encoding="utf-8")
             text = fo.read()
             fo.close()
-            fo = open("UploadedResumes/" + desturl, "r", encoding="utf-8")
+            fo = open(path + desturl, "r", encoding="utf-8")
             s = fo.readlines()
             fo.close()
             print(text)
